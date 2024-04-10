@@ -198,7 +198,7 @@
 // ############################## INPUT FORMAT ############################
 /* ***_INPUT: TYPE, MIN, MID, MAX, DEADBAND
  * -----------------------------------------
- * TYPE:     3 0:Disabled, 1:Normal Pot, 2:Middle Resting Pot, 3:Auto-detect
+ * TYPE:    1 0:Disabled, 1:Normal Pot, 2:Middle Resting Pot, 3:Auto-detect
  * MIN:       min ADC1-value while poti at minimum-position (0 - 4095)
  * MID:       mid ADC1-value while poti at mid-position (INPUT_MIN - INPUT_MAX)
  * MAX:       max ADC2-value while poti at maximum-position (0 - 4095)
